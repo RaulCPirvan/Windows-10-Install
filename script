@@ -3,10 +3,8 @@ choco install bitwarden -y
 choco install borderlessgaming -y
 choco install discord -y
 choco install lghub -y
-choco install megasync -y
 choco install firefox -y
 choco install notepadplusplus.install -y
-choco install geforce-experience -y
 choco install qbittorrent -y
 choco install razer-synapse-3 -y
 choco install sharex -y
