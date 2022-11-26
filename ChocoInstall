@@ -13,3 +13,4 @@ choco install spotify -y
 choco install vlc -y
 choco install eartrumpet -y
 choco install taskbarx -y
+choco install shutup10 -y
